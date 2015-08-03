@@ -7,5 +7,6 @@ namespace EncryptLib
 {
     public class Class1
     {
+
     }
 }
